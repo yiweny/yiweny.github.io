@@ -32,7 +32,13 @@ img.resize{
 ul.b {
   list-style-type: square;
 }
-
+.verse{
+    margin-left: 2em;
+    width: 10em;
+}
+.line{
+    margin-left:-2em;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
